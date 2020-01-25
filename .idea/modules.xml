@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WahlinfoBackend.iml" filepath="$PROJECT_DIR$/WahlinfoBackend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LandtagswahlDaten.iml" filepath="$PROJECT_DIR$/LandtagswahlDaten.iml" />
     </modules>
   </component>
 </project>

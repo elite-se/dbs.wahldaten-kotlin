@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="WahlinfoBackend" />
+        <module name="LandtagswahlDaten" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="WahlinfoBackend" target="1.5" />
+      <module name="LandtagswahlDaten" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
